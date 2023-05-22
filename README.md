@@ -36,7 +36,7 @@ https://github.com/priyankav89/readmegenerator/assets/127457597/15f82b6d-8e9a-4e
 
 
 ##License
-MIT[Github license](https://img.shields.io/badge/license-${license}-yellow.svg)`
+MIT
 
 
 

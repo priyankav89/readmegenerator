@@ -29,7 +29,7 @@ When the user click on the links in the Table of Contents,Then the user is taken
 ![screenshot](./assets/README%20preview%20.png)
 
 ##Video Demo link
-![walkthrough video](./assets/Walkthrough-video.mov)
+![demo](./assets/Walkthrough-video.mov)
 
 ##License
 MIT[Github license](https://img.shields.io/badge/license-${license}-yellow.svg)`

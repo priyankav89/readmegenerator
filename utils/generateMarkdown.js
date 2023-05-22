@@ -40,8 +40,10 @@ function generateMarkdown(data) {
   ${data.Test}
   ## License
   ${renderLicenseBadge(data.License)}
+  
   ## Questions
-  contact-me for any questions :
+
+  contact-me for any questions at
 
   GitHub :  [GitHub/${data.Github}](https://github.com/${data.Github}) 
 

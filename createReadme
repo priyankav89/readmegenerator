@@ -1,7 +1,7 @@
-#  README GENERATOR 
+# README GENERATOR 
   by Priyanka Vivek  ![Github license](https://img.shields.io/badge/license-MIT-yellow.svg)
   ## Description
-  To create a professional readme file
+  To quickly create a professional README file for the project
   ## Table of Contents
   * [Installation](#Installation)
   * [How to Use This Application](#Usage)
@@ -9,21 +9,22 @@
   * [License](#License)
   * [Contributors](#Contribute)
   * [Testing](#Test)
-  * [Questions](#questions)
-  
+  * [ Questions](#Questions)
+  ßß
   ## Installation
-  install inquirer version 8.2.4 
+  install inquirer 8.2.4 using nvm install inquirer@8.2.4
   ## Usage
-  asy of creating readme fike
+  the user is prompted with a series of questions , when answered a professional readme file is created
   ##Credits
   n/a
   ## Contributors
   n/a
   ## Testing
-  use command node index.js to test this file
+  node index.js
   ## License
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
-  ## Contact-Me
+  ## Questions
+  contact-me for any questions :
   GitHub :  [github/priyankav89](https://github.com/priyankav89) 
-  
-  Email :  priyaneonlove89@gmail.com
+
+  Email : [Priyanka Email/priyaneonlove89](https://gmail.com/priyaneonlove89)

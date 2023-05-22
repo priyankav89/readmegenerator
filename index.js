@@ -45,7 +45,7 @@ name : "Description"
 },{
     type : "input",
     message : "Enter the gitHub username for inquiries :",
-    name : "Contacts"
+    name : "Github"
 },{
 type : "input",
 message : "Enter your email for inquiries :",

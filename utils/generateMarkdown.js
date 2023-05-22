@@ -26,7 +26,7 @@ function generateMarkdown(data) {
   * [License](#License)
   * [Contributors](#Contribute)
   * [Testing](#Test)
-  * [Questions](#questions)
+  * [ Questions](#Questions)
   
   ## Installation
   ${data.Installation}
@@ -40,10 +40,12 @@ function generateMarkdown(data) {
   ${data.Test}
   ## License
   ${renderLicenseBadge(data.License)}
-  ## Contact-Me
-  GitHub :  [github/${data.Contacts}](https://github.com/${data.Contacts}) 
-  
-  Email :  ${data.Email}
+  ## Questions
+  contact-me for any questions :
+
+  GitHub :  [GitHub/${data.Github}](https://github.com/${data.Github}) 
+
+  Email : [Gmail/${data.Email}](https://gmail.com/${data.Email})
 `;
 }
 

@@ -28,10 +28,10 @@ When the user click on the links in the Table of Contents,Then the user is taken
 
 ![screenshot](./assets/README%20preview%20.png)
 
-##Video Demo link
-![demo](./assets/Walkthrough-video.mov)
+##Video Demo 
 
-https://github.com/priyankav89/readmegenerator/assets/127457597/0b0a0109-fbad-4804-9cb6-3a78fff9a0ef
+https://github.com/priyankav89/readmegenerator/assets/127457597/15f82b6d-8e9a-4e76-80c5-a8f8c58a6a14
+
 
 
 
